@@ -1,0 +1,11 @@
+/Users/mikolo/Projects/ssg215_arrays/ssg215_arrays/obj/Debug/ssg215_arrays.csprojAssemblyReference.cache
+/Users/mikolo/Projects/ssg215_arrays/ssg215_arrays/obj/Debug/ssg215_arrays.csproj.CoreCompileInputs.cache
+/Users/mikolo/Projects/ssg215_arrays/ssg215_arrays/bin/Debug/ssg215_arrays.exe
+/Users/mikolo/Projects/ssg215_arrays/ssg215_arrays/bin/Debug/ssg215_arrays.pdb
+/Users/mikolo/Projects/ssg215_arrays/ssg215_arrays/obj/Debug/ssg215_arrays.exe
+/Users/mikolo/Projects/ssg215_arrays/ssg215_arrays/obj/Debug/ssg215_arrays.pdb
+/Users/mikolo/Public/repos/csharp_Arrays/ssg215_arrays/ssg215_arrays/bin/Debug/ssg215_arrays.exe
+/Users/mikolo/Public/repos/csharp_Arrays/ssg215_arrays/ssg215_arrays/bin/Debug/ssg215_arrays.pdb
+/Users/mikolo/Public/repos/csharp_Arrays/ssg215_arrays/ssg215_arrays/obj/Debug/ssg215_arrays.csproj.CoreCompileInputs.cache
+/Users/mikolo/Public/repos/csharp_Arrays/ssg215_arrays/ssg215_arrays/obj/Debug/ssg215_arrays.exe
+/Users/mikolo/Public/repos/csharp_Arrays/ssg215_arrays/ssg215_arrays/obj/Debug/ssg215_arrays.pdb
